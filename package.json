@@ -1,0 +1,19 @@
+{
+  "name": "test2017",
+  "version": "1.0.0",
+  "description": "test2017_ public",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuyucchi/test2017.git"
+  },
+  "author": "fuyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuyucchi/test2017/issues"
+  },
+  "homepage": "https://github.com/fuyucchi/test2017#readme"
+}
